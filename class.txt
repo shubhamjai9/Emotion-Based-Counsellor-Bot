@@ -1,0 +1,151 @@
+how is the weather today,intent
+is it raining today in Florida,intent
+will it rain tomorrow,intent
+is it cloudy,intent
+how cold will it be in Moscow next week,intent
+will it be hot tomorrow,intent
+how cold will be the weather today,intent
+how cold will be the weather today in Ney York,intent
+do I need to wear a jacket today,intent
+is there a storm coming,intent
+how does the sky look,intent
+do i need umbrella,intent
+do i need sunscreen,intent
+is it too hot to play outside,intent
+i need to book a flight to Paris,intent
+i am travelling to Berlin,intent
+i have to be in Paris tomorrow,intent
+i will be travelling to Paris this week,intent
+i guess I have to visit Home next month,intent
+i have to go to Delhi to meet the client,intent
+can you find trains for me,intent
+i need to pack my bags,intent
+i should pack my bag,intent
+hi,intent
+hello,intent
+good morning,intent
+good afternoon,intent
+hey,intent
+yo,intent
+yo yo,intent
+hey man,intent
+hello there,intent
+anyone here,intent
+anyone around,intent
+can you help me,intent
+bye,intent
+goodbye,intent
+see you later,intent
+tata,intent
+gotta go,intent
+I will leave now,intent
+I am off now,intent
+bbl,intent
+bye bye,intent
+i won,non_intent
+i won the match,non_intent
+i got promoted,non_intent
+i got promotion,non_intent
+i became dad,non_intent
+i got married,non_intent
+i am getting married,non_intent
+i got engaged,non_intent
+i got job,non_intent
+i passed the exam,non_intent
+we won the tournament,non_intent
+my paper got accepted,non_intent
+it works,non_intent
+i did it,non_intent
+i feel great,non_intent
+i feel awesome,non_intent
+i feel amazing,non_intent
+i am feeling nice,non_intent
+it feels good,non_intent
+i lost,non_intent
+i lost the match,non_intent
+i got robbed,non_intent
+my dog died,non_intent
+my son is not well,non_intent
+i got diagnosed with sugar,non_intent
+my wife left me,non_intent
+we lost the tournament,non_intent
+i got beaten,non_intent
+i broke my leg,non_intent
+i fell from the chair,non_intent
+my shirt got spoiled,non_intent
+i have pain in my stomach,non_intent
+i was in an accident,non_intent
+i lost my job,non_intent
+i missed my flight,non_intent
+i missed the bus,non_intent
+i missed my train,non_intent
+i was late for my flight and missed it,non_intent
+i am feeling sick,non_intent
+i am feeling sad,non_intent
+i am sad,non_intent
+i think i am feeling sick,non_intent
+i think i am feeling feverish,non_intent
+i think i am not feeling well,non_intent
+i am not feeling well,non_intent
+i am not doing well,non_intent
+i am really feeling sick,non_intent
+i am feeling bad,non_intent
+i am feeling unwell,non_intent
+I am not good,non_intent
+I am not well,non_intent
+Ok,non_intent
+that is ok,non_intent
+nice,non_intent
+that is nice,non_intent
+it is nice,non_intent
+that looks nice,non_intent
+that is awesome,non_intent
+aweseom,non_intent
+it is awesome,non_intent
+those are awesome,non_intent
+this is great,non_intent
+that is great,non_intent
+those are great,non_intent
+these are great,non_intent
+great,non_intent
+this looks good,non_intent
+that is good,non_intent
+good,non_intent
+those are good,non_intent
+these are good,non_intent
+hmmm,non_intent
+fine,non_intent
+that is fine,non_intent
+this is fine,non_intent
+it seems fine,non_intent
+we are fine with it,non_intent
+yeah,non_intent
+phew,non_intent
+that is a relief,non_intent
+i am not feeling sick,non_intent
+i am not feeling sad,non_intent
+i am really not feeling sick,non_intent
+i am not feeling bad,non_intent
+i am not feeling unwell,non_intent
+I am good thanks,non_intent
+I am good,non_intent
+I am well thanks,non_intent
+I am well,non_intent
+I am good how are you,non_intent
+I am good how are you doing,non_intent
+I am well how are you,non_intent
+I am well how are you doing,non_intent
+pleased to meet you,non_intent
+glad to know that,non_intent
+that is very nice,non_intent
+nice to meet you,non_intent
+i think i am not feeling sick,non_intent
+i think i am not feeling too bad,non_intent
+i am not feeling too bad,non_intent
+can i call you Batman,non_intent
+do you know my name,non_intent
+what is my name,non_intent
+how are you doing,intent
+how are you,intent
+how do you do,intent
+how are you feeling today,intent

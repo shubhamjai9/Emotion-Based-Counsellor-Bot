@@ -1,0 +1,155 @@
+i won,sentiment
+i won the match,sentiment
+i got promoted,sentiment
+i got promotion,sentiment
+i became dad,sentiment
+i got married,sentiment
+i am getting married,sentiment
+i got engaged,sentiment
+i got job,sentiment
+i passed the exam,sentiment
+we won the tournament,sentiment
+my paper got accepted,sentiment
+it works,sentiment
+i did it,sentiment
+i feel great,sentiment
+i feel awesome,sentiment
+i feel amazing,sentiment
+i am feeling nice,sentiment
+it feels good,sentiment
+i lost,sentiment
+i lost the match,sentiment
+i got robbed,sentiment
+my dog died,sentiment
+my son is not well,sentiment
+i got diagnosed with sugar,sentiment
+my wife left me,sentiment
+we lost the tournament,sentiment
+i got beaten,sentiment
+i broke my leg,sentiment
+i fell from the chair,sentiment
+my shirt got spoiled,sentiment
+i have pain in my stomach,sentiment
+i was in an accident,sentiment
+i lost my job,sentiment
+i missed my flight,sentiment
+i missed the bus,sentiment
+i missed my train,sentiment
+i was late for my flight and missed it,sentiment
+i am feeling sick,sentiment
+i am feeling sad,sentiment
+i am sad,sentiment
+i think i am feeling sick,sentiment
+i think i am feeling feverish,sentiment
+i think i am not feeling well,sentiment
+i am not feeling well,sentiment
+i am not doing well,sentiment
+i am really feeling sick,sentiment
+i am feeling bad,sentiment
+i am feeling unwell,sentiment
+I am not good,sentiment
+I am not well,sentiment
+Ok,sentiment
+that is ok,sentiment
+nice,sentiment
+that is nice,sentiment
+it is nice,sentiment
+that looks nice,sentiment
+that is awesome,sentiment
+aweseom,sentiment
+it is awesome,sentiment
+those are awesome,sentiment
+this is great,sentiment
+that is great,sentiment
+those are great,sentiment
+these are great,sentiment
+great,sentiment
+this looks good,sentiment
+that is good,sentiment
+good,sentiment
+those are good,sentiment
+these are good,sentiment
+hmmm,sentiment
+fine,sentiment
+that is fine,sentiment
+this is fine,sentiment
+it seems fine,sentiment
+we are fine with it,sentiment
+yeah,sentiment
+phew,sentiment
+that is a relief,sentiment
+i am not feeling sick,sentiment
+i am not feeling sad,sentiment
+i am really not feeling sick,sentiment
+i am not feeling bad,sentiment
+i am not feeling unwell,sentiment
+I am good thanks,sentiment
+I am good,sentiment
+I am well thanks,sentiment
+I am well,sentiment
+I am good how are you,sentiment
+I am good how are you doing,sentiment
+I am well how are you,sentiment
+I am well how are you doing,sentiment
+pleased to meet you,sentiment
+glad to know that,sentiment
+that is very nice,sentiment
+nice to meet you,sentiment
+i think i am not feeling sick,sentiment
+i think i am not feeling too bad,sentiment
+i am not feeling too bad,sentiment
+what is your name,question
+what do you call yourself,question
+what should i call you,question
+can i know your name,question
+i do not remember your name,question
+how do i call you,question
+what does she call you,question
+what do people call you,question
+how does your sister call you,question
+how do your friends call you,question
+how does your mom call you,question
+can i call you Batman,question
+do you know my name,question
+what is my name,question
+can you tell me my name,question
+do you remember my name,question
+i do not remember my name,question
+i cannot recall my name,question
+where do you live,question
+what is your location,question
+which city do you live in,question
+which country are your from,question
+where are your from,question
+do you live in the machine,question
+where do you stay,question
+are you a bot,question
+you seem like a bot,question
+i think you are a robot,question
+i think you are a machine,question
+are you a machine,question
+are you married,question
+do you have a wife,question
+do you have a girlfriend,question
+do you have a partner,question
+when did you get married,question
+where were you born,question
+which place do you live in,question
+i think you live in Berlin,question
+where are you from,question
+which place are you from,question
+what is the name of your girlfriend,question
+how do you call your girlfriend,question
+how do you call your boyfriend,question
+how do you call your wife,question
+how do you call your husband,question
+what is your girlfriend's name,question
+what does she call me,question
+how are you doing,question
+how are you,question
+how do you do,question
+how are you feeling today,question
+how are you feeling,question
+my name is Abhinav,question
+Hi,question
+hello,question

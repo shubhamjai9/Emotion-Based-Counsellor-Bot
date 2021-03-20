@@ -1,0 +1,100 @@
+i won,congrats
+i won the match,congrats
+i got promoted,congrats
+i got promotion,congrats
+i became dad,congrats
+i got married,congrats
+i am getting married,congrats
+i got engaged,congrats
+i got job,congrats
+i passed the exam,congrats
+we won the tournament,congrats
+my paper got accepted,congrats
+it works,congrats
+i did it,congrats
+i feel great,congrats
+i feel awesome,congrats
+i feel amazing,congrats
+i am feeling nice,congrats
+it feels good,congrats
+i lost,sorry
+i lost the match,sorry
+i got robbed,sorry
+my dog died,sorry
+my son is not well,sorry
+i got diagnosed with sugar,sorry
+my wife left me,sorry
+we lost the tournament,sorry
+i got beaten,sorry
+i broke my leg,sorry
+i fell from the chair,sorry
+my shirt got spoiled,sorry
+i have pain in my stomach,sorry
+i was in an accident,sorry
+i lost my job,sorry
+i missed my flight,sorry
+i missed the bus,sorry
+i missed my train,sorry
+i was late for my flight and missed it,sorry
+i am feeling sick,sorry
+i am feeling sad,sorry
+i am sad,sorry
+i think i am feeling sick,sorry
+i think i am feeling feverish,sorry
+i think i am not feeling well,sorry
+i am not feeling well,sorry
+i am not doing well,sorry
+i am really feeling sick,sorry
+i am feeling bad,sorry
+i am feeling unwell,sorry
+I am not good,sorry
+I am not well,sorry
+Ok,neutral
+that is ok,neutral
+nice,neutral
+that is nice,neutral
+it is nice,neutral
+that looks nice,neutral
+that is awesome,neutral
+aweseom,neutral
+it is awesome,neutral
+those are awesome,neutral
+this is great,neutral
+that is great,neutral
+those are great,neutral
+these are great,neutral
+great,neutral
+this looks good,neutral
+that is good,neutral
+good,neutral
+those are good,neutral
+these are good,neutral
+hmmm,neutral
+fine,neutral
+that is fine,neutral
+this is fine,neutral
+it seems fine,neutral
+we are fine with it,neutral
+yeah,neutral
+phew,neutral
+that is a relief,neutral
+i am not feeling sick,neutral
+i am not feeling sad,neutral
+i am really not feeling sick,neutral
+i am not feeling bad,neutral
+i am not feeling unwell,neutral
+I am good thanks,neutral
+I am good,neutral
+I am well thanks,neutral
+I am well,neutral
+I am good how are you,neutral
+I am good how are you doing,neutral
+I am well how are you,neutral
+I am well how are you doing,neutral
+pleased to meet you,neutral
+glad to know that,neutral
+that is very nice,neutral
+nice to meet you,neutral
+i think i am not feeling sick,neutral
+i think i am not feeling too bad,neutral
+i am not feeling too bad,neutral
