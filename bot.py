@@ -46,7 +46,7 @@ def extract_name(sentence):
     return None
 
 def spacy_get_vec(sentence, filter_stopwords=False):
-    vec = np.zeros(384)
+    vec = np.zeros(96)
     doc = nlp((sentence))
     for word in doc:
         if filter_stopwords:
@@ -56,14 +56,14 @@ def spacy_get_vec(sentence, filter_stopwords=False):
     return vec
 
 def get_sentiment_vec(sentence):
-    vec = np.zeros(768)
+    vec = np.zeros(192)
     doc = nlp((sentence))
     for i,word in enumerate(doc):
         if i < len(doc) -1:
             tempvec = np.append(word.vector, doc[i + 1].vector)
             vec += tempvec
         else:
-            tempvec = np.append(word.vector, np.zeros(384))
+            tempvec = np.append(word.vector, np.zeros(96))
             vec += tempvec
     return vec
 
@@ -135,8 +135,8 @@ original_intent = None
 print(greetings[random.randint(0, len(greetings) - 1)] )
 action = None
 while is_user_input_expected:
-    sew = raw_input()
-    s = unicode(sew, "utf-8")
+    sew = input()
+    s = sew.encode("utf-8").decode()
     #print(type(s))
     s = s.strip()
     alpha=0
@@ -148,8 +148,8 @@ while is_user_input_expected:
             continue
     if s == '':
         continue
-    vec = spacy_get_vec(s)
-    is_intent = class_analyzer.predict(spacy_get_vec(s, True))[0] == 'intent'
+    vec = [spacy_get_vec(s)]
+    is_intent = class_analyzer.predict([spacy_get_vec(s, True)])[0] == 'intent'
     if not is_intent:
         is_question = is_question_analyzer.predict(vec)[0] == 'question'
         if is_question:
@@ -157,7 +157,7 @@ while is_user_input_expected:
             #print('outside notNone')
             action = question_actions[question]
         else:
-            sentiment = sentiment_analyzer.predict(get_sentiment_vec(s))[0]
+            sentiment = sentiment_analyzer.predict([get_sentiment_vec(s)])[0]
             action = sentiment_actions[sentiment]
         bot_response,is_user_input_expected,action = action(s)
         #print('Question ND senti notNone')
